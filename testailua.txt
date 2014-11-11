@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello world
 toinenkin rivi tekstiä
 lisäillääns jotain muutakin
+=======
+Moi!
+Tämä
+>>>>>>> cfd4bd0da59d45e58cb9cf3395367d57242e1232
